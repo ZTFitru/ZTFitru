@@ -19,7 +19,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 
 
-
+# Github Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ztfitru&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
