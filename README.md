@@ -5,8 +5,6 @@
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/zplusfitru)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ZTFitru)
 
-![](https://komarev.com/ghpvc/?username=ZTFitru&color=green)
-
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Military%20Helmet.png" alt="Military Helmet" width="25" height="25" /> Army veteran attending Turing for Front End Engineering.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Dark%20Skin%20Tone.png" alt="Man Technologist Dark Skin Tone" width="25" height="25" /> I'm currently learning JavaScript, HTML, CSS, and professional development.
 
@@ -24,6 +22,8 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 
 # Github Stats
+![](https://komarev.com/ghpvc/?username=ZTFitru&color=green)
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ztfitru&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
