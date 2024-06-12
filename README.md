@@ -7,8 +7,9 @@
 
 ![](https://komarev.com/ghpvc/?username=ZTFitru&color=green)
 
-- Army veteran attending Turing for Front End Engineering.
-- I'm currently learning JavaScript, HTML, CSS, and professional development.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Military%20Helmet.png" alt="Military Helmet" width="25" height="25" /> Army veteran attending Turing for Front End Engineering.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Dark%20Skin%20Tone.png" alt="Man Technologist Dark Skin Tone" width="25" height="25" /> I'm currently learning JavaScript, HTML, CSS, and professional development.
+
 
 
 # Projects 
