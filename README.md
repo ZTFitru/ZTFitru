@@ -11,6 +11,12 @@
 - I'm currently learning JavaScript, HTML, CSS, and professional development.
 
 
+# Projects 
+- [Rock-Paper-Scissors](https://ztfitru.github.io/Rock-Paper-Scissors/)
+- [Self-Care-Center](https://ztfitru.github.io/self-care-center/)
+- [LoveStory](https://ztfitru.github.io/lovestory/)
+
+
 
 # My Skill Set
 
