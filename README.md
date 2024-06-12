@@ -8,20 +8,18 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Military%20Helmet.png" alt="Military Helmet" width="25" height="25" /> Army veteran attending Turing for Front End Engineering.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Dark%20Skin%20Tone.png" alt="Man Technologist Dark Skin Tone" width="25" height="25" /> I'm currently learning JavaScript, HTML, CSS, and professional development.
 
-
-
-# Projects 
+## Projects 
 - [Rock-Paper-Scissors](https://ztfitru.github.io/Rock-Paper-Scissors/)
 - [Self-Care-Center](https://ztfitru.github.io/self-care-center/)
 - [LoveStory](https://ztfitru.github.io/lovestory/)
 
-# My Skill Set
+## My Skill Set
 
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 
-# Github Stats
+## Github Stats
 ![](https://komarev.com/ghpvc/?username=ZTFitru&color=green)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ztfitru&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
