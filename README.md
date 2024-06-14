@@ -9,7 +9,6 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Dark%20Skin%20Tone.png" alt="Man Technologist Dark Skin Tone" width="25" height="25" /> I'm currently learning JavaScript, HTML, CSS, and professional development.
 
 ## Projects 
-- Working on a lawn service website at the moment
 - [Rock-Paper-Scissors](https://ztfitru.github.io/Rock-Paper-Scissors/)
 - [Self-Care-Center](https://ztfitru.github.io/self-care-center/)
 - [LoveStory](https://ztfitru.github.io/lovestory/)
