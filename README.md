@@ -12,6 +12,7 @@
 - [Rock-Paper-Scissors](https://ztfitru.github.io/Rock-Paper-Scissors/)
 - [Self-Care-Center](https://ztfitru.github.io/self-care-center/)
 - [LoveStory](https://ztfitru.github.io/lovestory/)
+- [Counter](https://ztfitru.github.io/passenger-counter-app/)
 
 ## My Skill Set
 
