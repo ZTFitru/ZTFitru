@@ -9,6 +9,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Dark%20Skin%20Tone.png" alt="Man Technologist Dark Skin Tone" width="25" height="25" /> I'm currently learning JavaScript, HTML, CSS, and professional development.
 
 ## Projects 
+- [Dangol-Weather](https://dangol-weather.vercel.app/)
 - [Popcorn-Score](https://drif7er.github.io/popcorn-score/#/)
 - [Rock-Paper-Scissors](https://ztfitru.github.io/Rock-Paper-Scissors/)
 - [Self-Care-Center](https://ztfitru.github.io/self-care-center/)
@@ -17,6 +18,7 @@
 
 ## My Skill Set
 
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
