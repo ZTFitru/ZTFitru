@@ -8,7 +8,8 @@
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ZTFitru)
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Military%20Helmet.png" alt="Military Helmet" width="25" height="25" /> Army veteran attending Turing for Front End Engineering.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Dark%20Skin%20Tone.png" alt="Man Technologist Dark Skin Tone" width="25" height="25" /> I'm currently learning JavaScript, HTML, CSS, and professional development.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Dark%20Skin%20Tone.png" alt="Man Technologist Dark Skin Tone" width="25" height="25" /> I'm currently learning React, JavaScript, HTML, CSS, and professional development.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Lifting%20Weights%20Dark%20Skin%20Tone.png" alt="Person Lifting Weights Dark Skin Tone" width="25" height="25" /> I enjoy lifting weights and being active. 
 
 ## Projects 
 - [Dangol-Weather](https://dangol-weather.vercel.app/)
