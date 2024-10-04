@@ -12,6 +12,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Lifting%20Weights%20Dark%20Skin%20Tone.png" alt="Person Lifting Weights Dark Skin Tone" width="25" height="25" /> I enjoy lifting weights and being active. 
 
 ## Projects 
+- [Harry Potter](https://harrypotter-red.vercel.app/#)
 - [Dangol-Weather](https://dangol-weather.vercel.app/)
 - [Popcorn-Score](https://drif7er.github.io/popcorn-score/#/)
 - [Rock-Paper-Scissors](https://ztfitru.github.io/Rock-Paper-Scissors/)
