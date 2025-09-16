@@ -13,6 +13,7 @@
 
 ## Projects 
 - [Portfolio](https://zplusfitru.vercel.app/)
+- [Fit-Circle](https://trainwithcircle.vercel.app/)
 - [Snackable Thoughts](https://snackable-thoughts.vercel.app/)
 - [Harry Potter](https://harrypotter-red.vercel.app/#)
 - [Dangol-Weather](https://dangol-weather.vercel.app/)
